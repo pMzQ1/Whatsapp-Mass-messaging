@@ -1,0 +1,66 @@
+row_number,name,original_phone,normalized_phone,status,reason
+2,Liesbeth,+31622527232,+31622527232,valid,
+3,Vera,+31613922650,+31613922650,valid,
+4,Huub,+31613922650,+31613922650,duplicate,duplicate phone (already listed earlier)
+5,Marloes,+31657317312,+31657317312,valid,
+6,Luka,+31657317312,+31657317312,duplicate,duplicate phone (already listed earlier)
+7,Anton,+31653216015,+31653216015,valid,
+8,Anneke,+31653216015,+31653216015,duplicate,duplicate phone (already listed earlier)
+9,Carina,+31613758925,+31613758925,valid,
+10,Hubert,+31653785258,+31653785258,valid,
+11,Lida,+31622213953,+31622213953,valid,
+12,Peter,+31622213953,+31622213953,duplicate,duplicate phone (already listed earlier)
+13,Aad,+31651160911,+31651160911,valid,
+14,Ella,+31651160911,+31651160911,duplicate,duplicate phone (already listed earlier)
+15,Rianne,+31630708234,+31630708234,valid,
+16,Paul,+31630708234,+31630708234,duplicate,duplicate phone (already listed earlier)
+17,Anno,+31654663477,+31654663477,valid,
+18,Anja,+31653943284,+31653943284,valid,
+19,Jens,+31612242416,+31612242416,valid,
+20,John,+31650694226,+31650694226,valid,
+21,Germain,+31637284354,+31637284354,valid,
+22,Rudy,+31646519214,+31646519214,valid,
+23,Patrick,+31652334084,+31652334084,valid,
+24,Tinoes,+31618650267,+31618650267,valid,
+25,Corry Tinoes,+31618650267,+31618650267,duplicate,duplicate phone (already listed earlier)
+26,Gerrit,+31622876497,+31622876497,valid,
+27,Franny,+31612228049,+31612228049,valid,
+28,Iva,+31646781923,+31646781923,valid,
+29,Sam,+31631255435,+31631255435,valid,
+30,Lex,+31613785801,+31613785801,valid,
+31,Lisette,+31655320515,+31655320515,valid,
+32,Max,+31630937102,+31630937102,valid,
+33,Florine,+31630937102,+31630937102,duplicate,duplicate phone (already listed earlier)
+34,Peter,+31650217224,+31650217224,valid,
+35,Bertina,+31650217224,+31650217224,duplicate,duplicate phone (already listed earlier)
+36,Tiemen,+31682015214,+31682015214,valid,
+37,Sylvia,+31682015214,+31682015214,duplicate,duplicate phone (already listed earlier)
+38,Hilbert,+31655305714,+31655305714,valid,
+39,Eleane,+31655305714,+31655305714,duplicate,duplicate phone (already listed earlier)
+40,Annemarie,+31611417007,+31611417007,valid,
+41,Arnoud,+31653405202,+31653405202,valid,
+42,Jose,+31651777287,+31651777287,valid,
+43,Rob,+31621455184,+31621455184,valid,
+44,Bert,+31613863846,+31613863846,valid,
+45,Ellen,+31624139253,+31624139253,valid,
+46,Thomas,+31620873535,+31620873535,valid,
+47,Daisy,+31620873535,+31620873535,duplicate,duplicate phone (already listed earlier)
+48,Daan,+31642103926,+31642103926,valid,
+49,Angela,+31642103926,+31642103926,duplicate,duplicate phone (already listed earlier)
+50,Huub,+31629424431,+31629424431,valid,
+51,Beppie,+31640615329,+31640615329,valid,
+52,Denise,+31614421099,+31614421099,valid,
+53,Susy,+31624675470,+31624675470,valid,
+54,Dirk Griffioen,+31621819428,+31621819428,valid,
+55,Martine Griffioen,+31621819428,+31621819428,duplicate,duplicate phone (already listed earlier)
+56,Arjan Frans,+31615537561,+31615537561,valid,
+57,Ivette Frans,+31615537561,+31615537561,duplicate,duplicate phone (already listed earlier)
+58,John van Schaik,+31623546854,+31623546854,valid,
+59,Willemien van Schaik,+31623546854,+31623546854,duplicate,duplicate phone (already listed earlier)
+60,Floor,+31615919788,+31615919788,valid,
+61,Lisanne,+31625249112,+31625249112,valid,
+62,Fenna,+31622628456,+31622628456,valid,
+63,Hanekke,+31614244188,+31614244188,valid,
+64,Man Hanneke / Janneke,+31614244188,+31614244188,duplicate,duplicate phone (already listed earlier)
+65,Dirk van Anrhem,+31620551150,+31620551150,valid,
+66,Rita van Arnhem,+31620551150,+31620551150,duplicate,duplicate phone (already listed earlier)

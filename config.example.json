@@ -1,0 +1,5 @@
+﻿{
+  "min_delay_seconds": 4.0,
+  "max_delay_seconds": 8.0,
+  "test_first_n": 2
+}

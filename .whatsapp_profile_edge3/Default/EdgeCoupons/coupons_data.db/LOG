@@ -1,0 +1,6 @@
+2026/03/27-14:03:32.498 2ac0 Reusing MANIFEST C:\Users\Ferdi\Downloads\Mass Whatsapp message\.whatsapp_profile_edge3\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/03/27-14:03:32.502 2ac0 Recovering log #4
+2026/03/27-14:03:32.504 2ac0 Reusing old log C:\Users\Ferdi\Downloads\Mass Whatsapp message\.whatsapp_profile_edge3\Default\EdgeCoupons/coupons_data.db/000004.log 
+2026/03/27-14:03:32.607 326c Level-0 table #8: started
+2026/03/27-14:03:32.612 326c Level-0 table #8: 682064 bytes OK
+2026/03/27-14:03:32.615 326c Delete type=0 #4

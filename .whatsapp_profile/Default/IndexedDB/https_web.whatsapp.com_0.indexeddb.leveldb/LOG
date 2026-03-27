@@ -1,0 +1,35 @@
+2026/03/27-13:32:33.294 673c Reusing MANIFEST C:\Users\Ferdi\Downloads\Mass Whatsapp message\.whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/27-13:32:33.295 673c Recovering log #42
+2026/03/27-13:32:33.330 673c Reusing old log C:\Users\Ferdi\Downloads\Mass Whatsapp message\.whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000042.log 
+2026/03/27-13:32:33.908 5bc0 Level-0 table #47: started
+2026/03/27-13:32:33.943 5bc0 Level-0 table #47: 634738 bytes OK
+2026/03/27-13:32:33.946 5bc0 Delete type=0 #42
+2026/03/27-13:32:33.946 24dc Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/27-13:32:33.956 5bc0 Level-0 table #49: started
+2026/03/27-13:32:33.970 5bc0 Level-0 table #49: 602 bytes OK
+2026/03/27-13:32:33.972 5bc0 Delete type=0 #46
+2026/03/27-13:32:33.972 24dc Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at '\x00\x18\x00\x00\x05' @ 122049 : 0
+2026/03/27-13:32:33.973 24dc Compacting 1@0 + 1@1 files
+2026/03/27-13:32:33.998 24dc Generated table #50@0: 12470 keys, 424887 bytes
+2026/03/27-13:32:33.998 24dc Compacted 1@0 + 1@1 files => 424887 bytes
+2026/03/27-13:32:34.000 24dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/27-13:32:34.000 24dc Manual compaction at level-0 from '\x00\x18\x00\x00\x05' @ 122049 : 0 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/27-13:32:34.001 24dc Level-0 table #52: started
+2026/03/27-13:32:34.017 24dc Level-0 table #52: 249 bytes OK
+2026/03/27-13:32:34.019 24dc Delete type=2 #47
+2026/03/27-13:32:34.019 24dc Delete type=0 #48
+2026/03/27-13:32:34.019 24dc Delete type=2 #49
+2026/03/27-13:32:34.021 24dc Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x19\x00\x00\x05' @ 122055 : 0
+2026/03/27-13:32:34.021 24dc Compacting 1@0 + 1@1 files
+2026/03/27-13:32:34.044 24dc Generated table #53@0: 12468 keys, 424773 bytes
+2026/03/27-13:32:34.044 24dc Compacted 1@0 + 1@1 files => 424773 bytes
+2026/03/27-13:32:34.045 24dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/27-13:32:34.045 24dc Delete type=2 #52
+2026/03/27-13:32:34.046 24dc Manual compaction at level-0 from '\x00\x19\x00\x00\x05' @ 122055 : 0 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/27-13:32:34.066 673c Compacting 1@1 + 1@2 files
+2026/03/27-13:32:34.122 673c Generated table #54@1: 27064 keys, 1657799 bytes
+2026/03/27-13:32:34.122 673c Compacted 1@1 + 1@2 files => 1657799 bytes
+2026/03/27-13:32:34.123 673c compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/27-13:32:34.124 673c Delete type=2 #44
+2026/03/27-13:32:34.125 673c Delete type=2 #50
+2026/03/27-13:32:34.125 673c Delete type=2 #53

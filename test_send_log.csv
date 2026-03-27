@@ -1,0 +1,27 @@
+timestamp_utc,name,phone,status,reason
+2026-03-27T12:31:34.886668+00:00,Ilse,+31657965195,failed,"unexpected error: Page.goto: Page crashed
+Call log:
+  - navigating to ""https://web.whatsapp.com/send?phone=31657965195&text=Beste%20familie%20en%20vrienden%20van%20Fred%20en%20Nathalie.%0AIk%20zal%20me%20even%20voorstellen%20ik%20ben%20de%20moeder%20van%20Nathalie.%0AAls%20het%20goed%20is%20hebben%20jullie%20de%20uitnodiging%20voor%2026%20juni%202026%20ontvangen.%0ADaarom%20heb%20ik%20iets%20bedacht%2C%20wat%20eigenlijk%20als%20grap%20bedoeld%20is.%0AIk%20wil%20U%20graag%20vragen%20of%20U%20voor%20Fred%20en%20Nathalie%20een%20peper%20en%20zoutstelletje%20wil%20kopen%20of%20zelf%20in%20elkaar%20wil%20knutselen%3F%0ADit%20hoeft%20echt%20niet%20duur%20te%20zijn%2C%20want%20het%20is%20bedoeld%20als%20grapje%20uiteraard.%0AEn%20misschien%20wilt%20U%20daar%20dan%20ook%20een%20%28kaartje%20of%20foto%20of%20briefje%29%20bijvoegen%2C%20wat%20de%20connectie%20is%20van%20U%20met%20het%20bruidspaar.%0A%28b.v.%20een%20leuke%20herinnering%20of%20gebeurtenis%29.%0AMaakt%20niet%20uit%20als%20het%20maar%20leuk%20is.%0ADeze%20peper%20en%20zoutstelletjes%20worden%20dan%20bij%20aankomst%20in%20een%20mand%20gedaan%2C%20en%20na%20de%20ceremonie%20aan%20het%20bruidspaar%20aangeboden.%0AOnder%20het%20mom%20van%20Hartelijk%20bedankt%20voor%20het%20peper%20en%20zoutstel%20van%20Andre%20van%20Duin%20en%20Corry%20van%20Gorp.%0ADit%20liedje%20zal%20dan%20gedraaid%20worden.%0AVergeet%20vooral%20Uw%20naam%20niet%20te%20vermelden%20op%20het%20pakje.%0AMocht%20U%20nog%20vragen%20hebben%20hierover.%0AMijn%20tel.nr.%20is%200651777287%20of%20mijn%20emailadres%20is%20jg.vanderhorst%40telfort.nl%0AHopelijk%20doet%20U%20allemaal%20mee%2C%20en%20krijgen%20ze%20heel%20veel%20peper%20en%20zoutstelletjes.%0A%0AAlvast%20bedankt%2C%20groetjes%20Jos%C3%A9%20van%20der%20Laan."", waiting until ""domcontentloaded""
+"
+2026-03-27T12:31:43.218633+00:00,Lotte,+31620572412,failed,"unexpected error: Page.goto: Page crashed
+Call log:
+  - navigating to ""https://web.whatsapp.com/send?phone=31620572412&text=Beste%20familie%20en%20vrienden%20van%20Fred%20en%20Nathalie.%0AIk%20zal%20me%20even%20voorstellen%20ik%20ben%20de%20moeder%20van%20Nathalie.%0AAls%20het%20goed%20is%20hebben%20jullie%20de%20uitnodiging%20voor%2026%20juni%202026%20ontvangen.%0ADaarom%20heb%20ik%20iets%20bedacht%2C%20wat%20eigenlijk%20als%20grap%20bedoeld%20is.%0AIk%20wil%20U%20graag%20vragen%20of%20U%20voor%20Fred%20en%20Nathalie%20een%20peper%20en%20zoutstelletje%20wil%20kopen%20of%20zelf%20in%20elkaar%20wil%20knutselen%3F%0ADit%20hoeft%20echt%20niet%20duur%20te%20zijn%2C%20want%20het%20is%20bedoeld%20als%20grapje%20uiteraard.%0AEn%20misschien%20wilt%20U%20daar%20dan%20ook%20een%20%28kaartje%20of%20foto%20of%20briefje%29%20bijvoegen%2C%20wat%20de%20connectie%20is%20van%20U%20met%20het%20bruidspaar.%0A%28b.v.%20een%20leuke%20herinnering%20of%20gebeurtenis%29.%0AMaakt%20niet%20uit%20als%20het%20maar%20leuk%20is.%0ADeze%20peper%20en%20zoutstelletjes%20worden%20dan%20bij%20aankomst%20in%20een%20mand%20gedaan%2C%20en%20na%20de%20ceremonie%20aan%20het%20bruidspaar%20aangeboden.%0AOnder%20het%20mom%20van%20Hartelijk%20bedankt%20voor%20het%20peper%20en%20zoutstel%20van%20Andre%20van%20Duin%20en%20Corry%20van%20Gorp.%0ADit%20liedje%20zal%20dan%20gedraaid%20worden.%0AVergeet%20vooral%20Uw%20naam%20niet%20te%20vermelden%20op%20het%20pakje.%0AMocht%20U%20nog%20vragen%20hebben%20hierover.%0AMijn%20tel.nr.%20is%200651777287%20of%20mijn%20emailadres%20is%20jg.vanderhorst%40telfort.nl%0AHopelijk%20doet%20U%20allemaal%20mee%2C%20en%20krijgen%20ze%20heel%20veel%20peper%20en%20zoutstelletjes.%0A%0AAlvast%20bedankt%2C%20groetjes%20Jos%C3%A9%20van%20der%20Laan."", waiting until ""domcontentloaded""
+"
+2026-03-27T12:35:09.819092+00:00,Ilse,+31657965195,failed,"unexpected error: Page.goto: Target page, context or browser has been closed"
+2026-03-27T12:37:42.602962+00:00,Ilse,+31657965195,failed,"unexpected error: Page.goto: Page crashed
+Call log:
+  - navigating to ""https://web.whatsapp.com/send?phone=31657965195"", waiting until ""domcontentloaded""
+"
+2026-03-27T12:37:48.898901+00:00,Lotte,+31620572412,failed,"unexpected error: Page.goto: Page crashed
+Call log:
+  - navigating to ""https://web.whatsapp.com/send?phone=31620572412"", waiting until ""domcontentloaded""
+"
+2026-03-27T12:40:17.080458+00:00,Ilse,+31657965195,sent,sent
+2026-03-27T12:40:28.283467+00:00,Lotte,+31620572412,sent,sent
+2026-03-27T12:44:30.719932+00:00,Ilse,+31643582629,sent,sent
+2026-03-27T12:45:18.492615+00:00,Jose,+3151777287,failed,"unexpected error: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+  - waiting for locator(""footer div[contenteditable='true']"") to be visible
+"
+2026-03-27T12:45:29.751969+00:00,Ilse,+31643582629,skipped,already sent previously
+2026-03-27T12:45:42.371077+00:00,Jose,+31651777287,sent,sent

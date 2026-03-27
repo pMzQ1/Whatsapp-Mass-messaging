@@ -1,0 +1,44 @@
+2026/03/27-13:56:52.692 bb4 Creating DB C:\Users\Ferdi\Downloads\Mass Whatsapp message\.whatsapp_profile_edge3\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/03/27-13:56:52.700 bb4 Reusing MANIFEST C:\Users\Ferdi\Downloads\Mass Whatsapp message\.whatsapp_profile_edge3\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/27-13:57:21.012 10f4 Level-0 table #5: started
+2026/03/27-13:57:21.044 10f4 Level-0 table #5: 1021572 bytes OK
+2026/03/27-13:57:21.047 10f4 Delete type=0 #3
+2026/03/27-13:57:21.632 10f4 Level-0 table #7: started
+2026/03/27-13:57:21.671 10f4 Level-0 table #7: 971383 bytes OK
+2026/03/27-13:57:21.675 10f4 Delete type=0 #4
+2026/03/27-13:57:21.679 10f4 Compacting 1@1 + 1@2 files
+2026/03/27-13:57:21.754 10f4 Generated table #8@1: 24257 keys, 935358 bytes
+2026/03/27-13:57:21.754 10f4 Compacted 1@1 + 1@2 files => 935358 bytes
+2026/03/27-13:57:21.757 10f4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/27-13:57:23.569 4b00 Level-0 table #10: started
+2026/03/27-13:57:23.607 4b00 Level-0 table #10: 1382075 bytes OK
+2026/03/27-13:57:23.611 4b00 Delete type=2 #5
+2026/03/27-13:57:23.611 4b00 Delete type=0 #6
+2026/03/27-13:57:23.611 4b00 Delete type=2 #7
+2026/03/27-13:57:23.614 10f4 Compacting 1@1 + 1@2 files
+2026/03/27-13:57:23.684 10f4 Generated table #11@1: 34022 keys, 2081773 bytes
+2026/03/27-13:57:23.684 10f4 Compacted 1@1 + 1@2 files => 2081773 bytes
+2026/03/27-13:57:23.686 10f4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/27-13:57:27.707 10f4 Level-0 table #13: started
+2026/03/27-13:57:27.746 10f4 Level-0 table #13: 1006698 bytes OK
+2026/03/27-13:57:27.748 10f4 Delete type=2 #8
+2026/03/27-13:57:27.749 10f4 Delete type=0 #9
+2026/03/27-13:57:27.749 10f4 Delete type=2 #10
+2026/03/27-13:57:27.752 10f4 Compacting 1@1 + 1@2 files
+2026/03/27-13:57:27.835 10f4 Generated table #14@1: 35589 keys, 2197008 bytes
+2026/03/27-13:57:27.839 10f4 Generated table #15@1: 1251 keys, 48904 bytes
+2026/03/27-13:57:27.839 10f4 Compacted 1@1 + 1@2 files => 2245912 bytes
+2026/03/27-13:57:27.841 10f4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/27-13:57:32.087 10f4 Level-0 table #17: started
+2026/03/27-13:57:32.123 10f4 Level-0 table #17: 1049194 bytes OK
+2026/03/27-13:57:32.125 10f4 Delete type=2 #11
+2026/03/27-13:57:32.125 10f4 Delete type=0 #12
+2026/03/27-13:57:32.125 10f4 Delete type=2 #13
+2026/03/27-13:57:32.134 10f4 Compacting 1@1 + 2@2 files
+2026/03/27-13:57:32.205 10f4 Generated table #18@1: 34939 keys, 2197089 bytes
+2026/03/27-13:57:32.215 10f4 Generated table #19@1: 6322 keys, 179394 bytes
+2026/03/27-13:57:32.215 10f4 Compacted 1@1 + 2@2 files => 2376483 bytes
+2026/03/27-13:57:32.217 10f4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/27-13:57:32.217 10f4 Delete type=2 #14
+2026/03/27-13:57:32.217 10f4 Delete type=2 #15
+2026/03/27-13:57:32.217 10f4 Delete type=2 #17

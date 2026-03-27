@@ -1,0 +1,14 @@
+2026/03/27-13:45:31.507 6918 Reusing MANIFEST C:\Users\Ferdi\Downloads\Mass Whatsapp message\.whatsapp_profile_edge2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/27-13:45:31.508 6918 Recovering log #29
+2026/03/27-13:45:31.569 6918 Reusing old log C:\Users\Ferdi\Downloads\Mass Whatsapp message\.whatsapp_profile_edge2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000029.log 
+2026/03/27-13:45:38.426 671c Level-0 table #35: started
+2026/03/27-13:45:38.468 671c Level-0 table #35: 1111036 bytes OK
+2026/03/27-13:45:38.471 671c Delete type=0 #29
+2026/03/27-13:45:38.489 671c Compacting 1@1 + 2@2 files
+2026/03/27-13:45:38.565 671c Generated table #36@1: 39689 keys, 2192271 bytes
+2026/03/27-13:45:38.630 671c Generated table #37@1: 53184 keys, 1856130 bytes
+2026/03/27-13:45:38.630 671c Compacted 1@1 + 2@2 files => 4048401 bytes
+2026/03/27-13:45:38.632 671c compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/27-13:45:38.632 671c Delete type=2 #31
+2026/03/27-13:45:38.632 671c Delete type=2 #32
+2026/03/27-13:45:38.633 671c Delete type=2 #35
