@@ -1,6 +1,6 @@
-﻿import unittest
+import unittest
 
-from send_whatsapp import build_preview, load_csv_rows, validate_e164
+from send_whatsapp import Recipient, build_preview, load_csv_rows, render_message_for_recipient, validate_e164
 
 
 class SenderValidationTests(unittest.TestCase):
@@ -28,6 +28,11 @@ class SenderValidationTests(unittest.TestCase):
             path.write_text('first,second\nA,+31612345678\n', encoding='utf-8')
             with self.assertRaises(ValueError):
                 load_csv_rows(path)
+
+    def test_render_message_for_recipient_replaces_name_token(self):
+        recipient = Recipient(name='Jan', phone='+31612345678')
+        rendered = render_message_for_recipient('Beste {name},\nWelkom!', recipient)
+        self.assertEqual(rendered, 'Beste Jan,\nWelkom!')
 
 
 if __name__ == '__main__':

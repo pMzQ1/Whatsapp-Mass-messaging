@@ -116,6 +116,11 @@ def load_message_text(message_path: Path) -> str:
     raise ValueError(f"Could not decode message file: {message_path}")
 
 
+def render_message_for_recipient(message_text: str, recipient: Recipient) -> str:
+    # Personalization token for Message.txt templates.
+    return message_text.replace("{name}", recipient.name)
+
+
 def validate_e164(phone: str) -> bool:
     return bool(E164_RE.fullmatch(phone))
 
@@ -315,7 +320,8 @@ def send_message_once(page, recipient: Recipient, message_text: str) -> tuple[bo
     compose_box.click(timeout=3000)
 
     # Insert message directly into the compose box to avoid oversized URL issues.
-    page.keyboard.insert_text(message_text)
+    personalized_message = render_message_for_recipient(message_text, recipient)
+    page.keyboard.insert_text(personalized_message)
 
     send_button = page.locator("button:has(span[data-icon='send'])")
     if send_button.count() > 0:

@@ -5,7 +5,7 @@ This tool sends individual WhatsApp Web messages to recipients from a CSV file.
 ## Files
 - `send_whatsapp.py`: main script
 - `recipients.csv`: input file (required)
-- `Message.txt`: message body used exactly as-is (line breaks and icons preserved)
+- `Message.txt`: message template; use `{name}` anywhere to personalize per recipient
 - `preview.csv`: generated validation preview
 - `send_log.csv`: generated send/resume log
 - `.whatsapp_profile/`: Playwright browser profile for persistent login
@@ -52,4 +52,5 @@ python send_whatsapp.py --full-send
 - First browser run may require QR login in WhatsApp Web.
 - The script reads message text from `Message.txt` by default.
 - Use `--message-file <path>` to use a different message file.
+- Use `{name}` in the message text to insert the recipient name from `recipients.csv`.
 - Invalid rows stop sending and must be fixed first.
